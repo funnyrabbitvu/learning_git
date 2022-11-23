@@ -17,5 +17,6 @@ int div(int a, int b) {
 }
 
 int main() {
-    add(1, 3)
+    printf("hehehehe phu' bu` khu");
+    add(1, 3);
 }
